@@ -1,0 +1,14 @@
+numpy
+scipy
+sounddevice
+matplotlib
+pytest
+librosa
+
+scikit-learn
+torch
+
+faster-whisper
+
+fastapi
+uvicorn[standard]

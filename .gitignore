@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+dataset/
+sentences/*.wav
+
+models/
+reports/*.csv
+reports/*.png
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
